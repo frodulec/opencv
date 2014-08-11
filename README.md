@@ -1,2 +1,2 @@
-opencv
+krawędziowanie / edge filter
 ======
